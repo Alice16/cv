@@ -1,0 +1,28 @@
+  body {
+    background-color: #ffffff;
+    color: #66bfbf;
+    font: 16px serif;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    border-color: gainsboro;
+    width: 3%;
+  }
+
+  h1 {
+    color: #f76b8a;
+    font: oblique 35px serif;
+  }
+
+  h2 {
+    color: #f76b8a;
+    font: oblique 30px serif;
+  }
+
+  h3 {
+    color: #f76b8a;
+    font: oblique 25px serif;
+  }
